@@ -6,7 +6,7 @@
 
 I started programming in 2014 making my first applications (very simple) in a self-taught way with C, C # and PHP. In my work as a web developer, I make use of front-end technologies such as HTML, CSS, Bootstrap, and Sass; as well as back-end: PHP, Laravel, JavaScript, and Node.js.
 
-I recently held the position of SEO analyst at the renowned newspaper, El Diario (eldiario.com), where I got experience in writing, editorial, proofreading, and SEO of news in real-time.
+I recently held the position of SEO analyst at the renowned newspaper, ([**El Diario**](https://eldiario.com)), where I got experience in writing, editorial, proofreading, and SEO of news in real-time.
 
 ### Contact me:
 
@@ -25,5 +25,3 @@ I recently held the position of SEO analyst at the renowned newspaper, El Diario
 ![photoshop](https://aleen42.github.io/badges/src/photoshop.svg) </br>
 ![illustrator](https://aleen42.github.io/badges/src/illustrator.svg
 )
-
-
