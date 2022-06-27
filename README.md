@@ -6,11 +6,9 @@
 
 I started programming in 2014 making my first applications (very simple) in a self-taught way with C, C # and PHP. In my work as a web developer, I make use of front-end technologies such as HTML, CSS, Bootstrap, and Sass; as well as back-end: PHP, Laravel, JavaScript, and Node.js.
 
-I recently held the position of SEO analyst at the renowned newspaper, ([**El Diario**](https://eldiario.com)), where I got experience in writing, editorial, proofreading, and SEO of news in real-time.
-
 ### Contact me:
 
-[![Web](https://img.shields.io/badge/My_Portfolio-14a1f0?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=101010)](https://portfolio.freg.online/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/greg-noguera/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/greg_noguera/) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/greg_noguera) </br>
+[![Web](https://img.shields.io/badge/My_Portfolio-14a1f0?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=101010)](https://freg.online/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/greg-noguera/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/greg_noguera/) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/greg_noguera) </br>
 
 ### 👉 My skills:
 
